@@ -1,0 +1,12 @@
+import React from 'react';
+
+function App() {
+  return (
+    <div style={{ textAlign: 'center', marginTop: '100px' }}>
+      <h1>Bienvenue sur Study+</h1>
+      <p>Plateforme éducative pour Biologie, Chimie, Physique et Mathématiques.</p>
+    </div>
+  );
+}
+
+export default App;
